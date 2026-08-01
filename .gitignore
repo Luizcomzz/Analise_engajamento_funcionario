@@ -1,0 +1,35 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Banco de dados SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos temporários
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos grandes (caso os dados sejam privados)
+data/raw/
+
+# Cache
+.pytest_cache/
