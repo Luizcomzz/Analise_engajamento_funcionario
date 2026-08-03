@@ -3,6 +3,9 @@ Esse projeto foi elaborado como parte de um processo seletivo que estou particip
 a relação entre as variáveis que impactam tanto no engajamento do funcionário como nas entregas, onde com esses
 resultados tornar o ambiente da empresa mais confortável.
 
+## Video Apresentação
+No [vídeo](https://youtu.be/vkAYYM45xp4) eu expliquei o processo utilizado para analisar os dados do case e os principais insights adquiridos nesse processo.
+
 ## Objetivo:
 * Identificar os fatores mais associados à satisfação e ao engajamento dos colaboradores, produzindo recomendações baseadas em dados para apoiar decisões de gestão de pessoas.
 * Buscar insights para melhorar o ambiente colaborativo
