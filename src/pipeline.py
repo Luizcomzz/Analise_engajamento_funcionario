@@ -196,6 +196,20 @@ def tratar_dados(df):
     )
 
     return df_clean
+def gerar_estatisticas(df):
+
+    print("\n===== ESTATÍSTICAS DESCRITIVAS =====")
+
+    estatisticas = df.describe(include="all").T
+
+    print(estatisticas)
+
+    estatisticas.to_csv(
+        "data/processed/estatisticas_descritivas.csv",
+        encoding="utf-8-sig"
+    )
+
+    return estatisticas
 
 # Criar uma tabela para fazer consultas com o sql 
 def criar_banco(df, nome_banco):
@@ -203,14 +217,125 @@ def criar_banco(df, nome_banco):
     conn = sql.connect(nome_banco)
 
     df.to_sql(
-        "funcionarios",
+        "funcionarios_clima",
         conn,
         if_exists="replace",
         index=False
     )
 
-    conn.close()
+    cursor = conn.cursor()
 
+    cursor.execute("""
+
+    CREATE VIEW IF NOT EXISTS vw_satisfacao_area AS
+
+    SELECT
+    area,
+    COUNT(*) AS total_colaboradores,
+    ROUND(AVG(nivel_satisfacao),2) AS media_satisfacao,
+    ROUND(AVG(recomendaria),2) AS media_recomendacao
+FROM funcionarios_clima
+GROUP BY area
+ORDER BY media_satisfacao
+
+    """)
+
+    cursor.execute("""
+
+    CREATE VIEW IF NOT EXISTS vw_cargos AS
+
+    SELECT
+        cargo,
+        COUNT(*) AS total
+
+    FROM funcionarios_clima
+
+    GROUP BY cargo
+
+    """)
+
+    cursor.execute("""
+
+    CREATE VIEW IF NOT EXISTS vw_tempo_empresa AS
+
+    SELECT
+
+        classificacao_experiencia,
+
+        COUNT(*) AS total,
+
+        ROUND(AVG(nivel_satisfacao),2) AS media_satisfacao
+
+    FROM funcionarios_clima
+
+    GROUP BY classificacao_experiencia
+    ORDER BY media_satisfacao
+
+    """)
+
+    conn.commit()
+
+    conn.close()
+def resumo_executivo(df):
+
+    print("\n===== RESUMO EXECUTIVO =====")
+
+    print(f"Total colaboradores: {len(df)}")
+
+    print(f"Satisfação média: {df['nivel_satisfacao'].mean():.2f}")
+
+    print(f"Recomendação média: {df['recomendaria'].mean():.2f}")
+
+    print()
+
+    resumo = (
+
+        df
+
+        .groupby("area")
+
+        .agg(
+
+            Quantidade=("id_funcionario","count"),
+
+            Media_Satisfacao=("nivel_satisfacao","mean"),
+
+            Media_Indicaria=("recomendaria","mean")
+
+        )
+
+        .sort_values("Media_Satisfacao")
+
+    )
+
+    print(resumo)
+
+    resumo.to_csv(
+
+        "data/processed/resumo_area.csv",
+
+        encoding="utf-8-sig"
+
+    )
+
+    return resumo
+def exportar_dados(df):
+
+    df.to_csv(
+
+        "data/processed/base_tratada.csv",
+
+        index=False,
+
+        encoding="utf-8-sig"
+
+    )
+
+    print("CSV exportado.")
+
+
+
+    
 # ==========================
 # MAIN
 # ==========================
@@ -230,13 +355,16 @@ def main():
 
     df_clean = tratar_dados(df)
 
+    gerar_estatisticas(df_clean)
+
+    resumo_executivo(df_clean)
+
+    exportar_dados(df_clean)
+
     criar_banco(
-        df = df_clean,
+        df=df_clean,
         nome_banco="data/funcionarios.db"
     )
-
-    print("Pipeline executado com sucesso!")
-
 
 if __name__ == "__main__":
     main()

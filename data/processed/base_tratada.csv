@@ -1,0 +1,501 @@
+﻿id_funcionario,apelido,idade,faixa_idade,anos_na_empresa,classificacao_experiencia,area,cargo,nivel_satisfacao,descricao_satisfacao,recomendaria,descricao_recomendaria
+245,Eco,61,58-64,0.6,Integração,Comercial,Executivo Comercial,4,Satisfeito,4,Recomendaria
+156,Delta,59,58-64,0.8,Integração,Experiência do Cliente,Analista CX,4,Satisfeito,4,Recomendaria
+143,Atlas,62,58-64,1.5,Consolidação,RH,Analista RH,4,Satisfeito,4,Recomendaria
+439,Atlas,60,58-64,5.7,Embaixadores,Administrativo,Assistente Administrativo,5,Muito satisfeito,5,Recomendaria fortemente
+368,Atlas,60,58-64,10.6,Veteranos,Operação,Supervisor Operacional,4,Satisfeito,5,Recomendaria fortemente
+4,Sol,61,58-64,14.0,Veteranos,Administrativo,Coordenador Administrativo,5,Muito satisfeito,5,Recomendaria fortemente
+243,Águia,52,50-58,0.2,Integração,Atendimento,Supervisor Atendimento,3,Neutro,2,Pouco provável recomendar
+13,Sol,57,50-58,0.3,Integração,Comercial,Analista Comercial,3,Neutro,4,Recomendaria
+63,Atlas,52,50-58,0.3,Integração,Operação,Motorista,4,Satisfeito,5,Recomendaria fortemente
+234,Eco,53,50-58,0.3,Integração,Manutenção,Técnico de Manutenção,3,Neutro,3,Neutro
+74,Orion,53,50-58,0.4,Integração,Financeiro,Assistente Financeiro,2,Insatisfeito,2,Pouco provável recomendar
+459,Delta,53,50-58,0.4,Integração,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+460,Bravo,52,50-58,0.4,Integração,Manutenção,Mecânico,4,Satisfeito,4,Recomendaria
+199,Delta,52,50-58,0.5,Integração,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+355,Aurora,58,50-58,0.5,Integração,Marketing,Assistente Marketing,4,Satisfeito,5,Recomendaria fortemente
+23,Safira,53,50-58,0.6,Integração,Tecnologia,Analista de Dados,4,Satisfeito,5,Recomendaria fortemente
+328,Lua,52,50-58,0.6,Integração,Manutenção,Técnico de Manutenção,3,Neutro,3,Neutro
+5,Atlas,56,50-58,0.8,Integração,Operação,Despachante,3,Neutro,3,Neutro
+24,Vento,52,50-58,0.8,Integração,Planejamento,Analista Planejamento,4,Satisfeito,4,Recomendaria
+6,Jade,57,50-58,1.1,Consolidação,Marketing,Analista Marketing,3,Neutro,4,Recomendaria
+19,Jade,58,50-58,1.1,Consolidação,Financeiro,Assistente Financeiro,3,Neutro,3,Neutro
+367,Delta,52,50-58,1.1,Consolidação,Manutenção,Técnico de Manutenção,4,Satisfeito,3,Neutro
+448,Aurora,56,50-58,1.1,Consolidação,Tecnologia,Desenvolvedor,4,Satisfeito,4,Recomendaria
+122,Aurora,53,50-58,1.2,Consolidação,Experiência do Cliente,Analista CX,4,Satisfeito,5,Recomendaria fortemente
+375,Delta,52,50-58,1.5,Consolidação,Planejamento,Analista Planejamento,4,Satisfeito,4,Recomendaria
+464,Delta,53,50-58,1.5,Consolidação,Comercial,Executivo Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+334,Sol,52,50-58,1.6,Consolidação,Tecnologia,Desenvolvedor,5,Muito satisfeito,5,Recomendaria fortemente
+410,Sirius,54,50-58,2.0,Consolidação,Comercial,Executivo Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+129,Sirius,51,50-58,2.1,Consolidação,Manutenção,Auxiliar de Manutenção,4,Satisfeito,5,Recomendaria fortemente
+499,Águia,57,50-58,2.1,Consolidação,Tecnologia,Analista de Sistemas,4,Satisfeito,4,Recomendaria
+486,Vento,53,50-58,2.8,Consolidação,Marketing,Analista Marketing,4,Satisfeito,4,Recomendaria
+178,Falcão,58,50-58,3.4,Maturidade,Operação,Fiscal Operacional,4,Satisfeito,4,Recomendaria
+217,Bravo,51,50-58,3.6,Maturidade,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+152,Pixel,54,50-58,3.8,Maturidade,Tecnologia,Analista de Dados,4,Satisfeito,5,Recomendaria fortemente
+111,Delta,53,50-58,4.1,Maturidade,Experiência do Cliente,Analista CX,4,Satisfeito,3,Neutro
+172,Aurora,51,50-58,4.2,Maturidade,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+185,Vento,58,50-58,5.9,Embaixadores,Comercial,Analista Comercial,4,Satisfeito,4,Recomendaria
+418,Delta,51,50-58,5.9,Embaixadores,Comercial,Executivo Comercial,4,Satisfeito,4,Recomendaria
+164,Orion,55,50-58,6.7,Embaixadores,Marketing,Analista Marketing,5,Muito satisfeito,5,Recomendaria fortemente
+331,Lua,53,50-58,6.9,Embaixadores,Operação,Supervisor Operacional,4,Satisfeito,3,Neutro
+240,Aurora,54,50-58,7.0,Embaixadores,Operação,Supervisor Operacional,4,Satisfeito,4,Recomendaria
+31,Jade,51,50-58,8.4,Embaixadores,Financeiro,Analista Financeiro,5,Muito satisfeito,5,Recomendaria fortemente
+485,Sirius,52,50-58,9.7,Embaixadores,Comercial,Analista Comercial,5,Muito satisfeito,4,Recomendaria
+85,Orion,58,50-58,10.3,Veteranos,Operação,Despachante,4,Satisfeito,4,Recomendaria
+99,Orion,51,50-58,10.6,Veteranos,Marketing,Assistente Marketing,3,Neutro,3,Neutro
+497,Trovão,54,50-58,11.3,Veteranos,Administrativo,Analista Administrativo,4,Satisfeito,4,Recomendaria
+298,Aurora,51,50-58,11.8,Veteranos,Marketing,Assistente Marketing,5,Muito satisfeito,5,Recomendaria fortemente
+125,Atlas,53,50-58,19.8,Veteranos,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+160,Vento,51,50-58,20.8,Legado,Tecnologia,Analista de Dados,5,Muito satisfeito,5,Recomendaria fortemente
+115,Pixel,54,50-58,25.8,Legado,Operação,Despachante,4,Satisfeito,5,Recomendaria fortemente
+278,Pixel,56,50-58,26.6,Legado,Operação,Despachante,4,Satisfeito,4,Recomendaria
+373,Águia,43,42-50,0.2,Integração,Operação,Motorista,4,Satisfeito,4,Recomendaria
+255,Panda,47,42-50,0.6,Integração,Tecnologia,Analista de Dados,3,Neutro,4,Recomendaria
+420,Lobo,47,42-50,0.6,Integração,Manutenção,Auxiliar de Manutenção,3,Neutro,3,Neutro
+488,Águia,45,42-50,0.6,Integração,Administrativo,Analista Administrativo,3,Neutro,2,Pouco provável recomendar
+46,Vento,47,42-50,0.7,Integração,Jurídico,Assistente Jurídico,5,Muito satisfeito,5,Recomendaria fortemente
+128,Safira,50,42-50,0.7,Integração,Administrativo,Assistente Administrativo,4,Satisfeito,5,Recomendaria fortemente
+222,Trovão,45,42-50,0.9,Integração,Operação,Fiscal Operacional,4,Satisfeito,4,Recomendaria
+312,Trovão,43,42-50,0.9,Integração,Operação,Despachante,4,Satisfeito,5,Recomendaria fortemente
+338,Safira,45,42-50,0.9,Integração,Atendimento,Atendente,4,Satisfeito,4,Recomendaria
+147,Lobo,45,42-50,1.1,Consolidação,Marketing,Assistente Marketing,5,Muito satisfeito,5,Recomendaria fortemente
+320,Panda,48,42-50,1.1,Consolidação,Operação,Motorista,4,Satisfeito,5,Recomendaria fortemente
+116,Pixel,46,42-50,1.2,Consolidação,Atendimento,Atendente,5,Muito satisfeito,4,Recomendaria
+337,Trovão,46,42-50,1.2,Consolidação,Experiência do Cliente,Analista CX,3,Neutro,4,Recomendaria
+445,Falcão,43,42-50,1.2,Consolidação,Operação,Motorista,4,Satisfeito,4,Recomendaria
+450,Lobo,50,42-50,1.2,Consolidação,RH,Analista RH,3,Neutro,3,Neutro
+44,Panda,47,42-50,1.3,Consolidação,Atendimento,Supervisor Atendimento,5,Muito satisfeito,5,Recomendaria fortemente
+307,Sol,48,42-50,1.3,Consolidação,Manutenção,Eletricista,4,Satisfeito,4,Recomendaria
+59,Safira,44,42-50,1.4,Consolidação,Manutenção,Auxiliar de Manutenção,3,Neutro,4,Recomendaria
+169,Bravo,44,42-50,1.5,Consolidação,Atendimento,Supervisor Atendimento,4,Satisfeito,5,Recomendaria fortemente
+269,Trovão,43,42-50,1.5,Consolidação,Tecnologia,Analista de Sistemas,3,Neutro,3,Neutro
+395,Cometa,50,42-50,1.5,Consolidação,Jurídico,Assistente Jurídico,4,Satisfeito,4,Recomendaria
+123,Jade,44,42-50,1.6,Consolidação,Operação,Supervisor Operacional,3,Neutro,3,Neutro
+187,Atlas,44,42-50,1.6,Consolidação,Atendimento,Atendente,3,Neutro,4,Recomendaria
+461,Lua,47,42-50,1.7,Consolidação,RH,Analista RH,5,Muito satisfeito,5,Recomendaria fortemente
+396,Falcão,49,42-50,1.8,Consolidação,Administrativo,Analista Administrativo,4,Satisfeito,5,Recomendaria fortemente
+184,Jade,50,42-50,1.9,Consolidação,Operação,Despachante,4,Satisfeito,5,Recomendaria fortemente
+275,Nuvem,45,42-50,1.9,Consolidação,Operação,Despachante,4,Satisfeito,5,Recomendaria fortemente
+62,Bravo,44,42-50,2.0,Consolidação,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+64,Pixel,43,42-50,2.0,Consolidação,Atendimento,Supervisor Atendimento,4,Satisfeito,4,Recomendaria
+140,Sirius,50,42-50,2.0,Consolidação,Tecnologia,Analista de Sistemas,5,Muito satisfeito,5,Recomendaria fortemente
+103,Trovão,45,42-50,2.1,Consolidação,Tecnologia,Analista de Dados,5,Muito satisfeito,5,Recomendaria fortemente
+250,Nuvem,49,42-50,2.2,Consolidação,Financeiro,Analista Financeiro,3,Neutro,2,Pouco provável recomendar
+314,Sol,43,42-50,2.3,Consolidação,Administrativo,Coordenador Administrativo,5,Muito satisfeito,5,Recomendaria fortemente
+389,Safira,48,42-50,2.4,Consolidação,Comercial,Executivo Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+327,Atlas,44,42-50,2.8,Consolidação,Experiência do Cliente,Analista CX,3,Neutro,4,Recomendaria
+268,Lobo,45,42-50,2.9,Consolidação,Operação,Motorista,3,Neutro,3,Neutro
+483,Orion,46,42-50,2.9,Consolidação,Marketing,Assistente Marketing,5,Muito satisfeito,5,Recomendaria fortemente
+398,Falcão,48,42-50,3.2,Maturidade,Operação,Despachante,4,Satisfeito,4,Recomendaria
+340,Pixel,48,42-50,3.7,Maturidade,Jurídico,Assistente Jurídico,4,Satisfeito,4,Recomendaria
+92,Vento,43,42-50,4.5,Maturidade,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+236,Vento,43,42-50,4.5,Maturidade,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+183,Águia,46,42-50,4.8,Maturidade,Manutenção,Técnico de Manutenção,3,Neutro,3,Neutro
+456,Sol,44,42-50,4.9,Maturidade,Manutenção,Auxiliar de Manutenção,4,Satisfeito,5,Recomendaria fortemente
+181,Safira,45,42-50,5.0,Maturidade,Atendimento,Supervisor Atendimento,5,Muito satisfeito,5,Recomendaria fortemente
+159,Sirius,48,42-50,5.1,Embaixadores,Comercial,Executivo Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+224,Nuvem,47,42-50,5.3,Embaixadores,Comercial,Analista Comercial,3,Neutro,3,Neutro
+325,Panda,49,42-50,5.4,Embaixadores,Administrativo,Analista Administrativo,4,Satisfeito,4,Recomendaria
+435,Pixel,47,42-50,5.9,Embaixadores,Manutenção,Auxiliar de Manutenção,4,Satisfeito,4,Recomendaria
+294,Sirius,47,42-50,6.2,Embaixadores,Planejamento,Analista Planejamento,4,Satisfeito,4,Recomendaria
+402,Vento,50,42-50,7.3,Embaixadores,Administrativo,Analista Administrativo,5,Muito satisfeito,5,Recomendaria fortemente
+469,Delta,48,42-50,8.9,Embaixadores,Tecnologia,Desenvolvedor,5,Muito satisfeito,5,Recomendaria fortemente
+374,Nuvem,49,42-50,9.0,Embaixadores,Manutenção,Eletricista,4,Satisfeito,4,Recomendaria
+417,Cometa,47,42-50,9.2,Embaixadores,Atendimento,Atendente,5,Muito satisfeito,5,Recomendaria fortemente
+303,Sol,45,42-50,9.3,Embaixadores,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+490,Safira,46,42-50,9.6,Embaixadores,Marketing,Assistente Marketing,4,Satisfeito,4,Recomendaria
+466,Pixel,43,42-50,9.8,Embaixadores,Manutenção,Auxiliar de Manutenção,3,Neutro,2,Pouco provável recomendar
+216,Sirius,43,42-50,11.6,Veteranos,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+114,Pixel,47,42-50,12.5,Veteranos,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+146,Bravo,49,42-50,12.6,Veteranos,Manutenção,Mecânico,5,Muito satisfeito,4,Recomendaria
+150,Nuvem,47,42-50,13.8,Veteranos,Marketing,Assistente Marketing,4,Satisfeito,5,Recomendaria fortemente
+180,Aurora,44,42-50,20.1,Legado,Operação,Fiscal Operacional,4,Satisfeito,4,Recomendaria
+289,Eco,44,42-50,20.1,Legado,Operação,Despachante,4,Satisfeito,5,Recomendaria fortemente
+265,Lua,46,42-50,24.0,Legado,Administrativo,Analista Administrativo,5,Muito satisfeito,5,Recomendaria fortemente
+194,Lobo,47,42-50,24.7,Legado,Comercial,Executivo Comercial,4,Satisfeito,5,Recomendaria fortemente
+212,Vento,44,42-50,24.8,Legado,Operação,Fiscal Operacional,4,Satisfeito,4,Recomendaria
+58,Águia,44,42-50,26.5,Legado,Tecnologia,Desenvolvedor,4,Satisfeito,4,Recomendaria
+205,Lua,49,42-50,28.2,Legado,Operação,Supervisor Operacional,4,Satisfeito,4,Recomendaria
+132,Pixel,48,42-50,28.7,Legado,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+376,Delta,43,42-50,28.8,Legado,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+304,Safira,49,42-50,29.5,Legado,RH,Business Partner,4,Satisfeito,4,Recomendaria
+50,Lua,42,34-42,0.2,Integração,Experiência do Cliente,Analista CX,3,Neutro,3,Neutro
+210,Sirius,36,34-42,0.2,Integração,Financeiro,Analista Financeiro,5,Muito satisfeito,5,Recomendaria fortemente
+198,Falcão,35,34-42,0.3,Integração,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+301,Falcão,35,34-42,0.4,Integração,Operação,Despachante,4,Satisfeito,3,Neutro
+457,Vento,40,34-42,0.4,Integração,Comercial,Executivo Comercial,4,Satisfeito,4,Recomendaria
+41,Vento,42,34-42,0.5,Integração,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+274,Delta,36,34-42,0.5,Integração,Operação,Despachante,4,Satisfeito,4,Recomendaria
+305,Safira,41,34-42,0.5,Integração,Experiência do Cliente,Analista CX,2,Insatisfeito,2,Pouco provável recomendar
+478,Águia,37,34-42,0.5,Integração,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+449,Nuvem,41,34-42,0.6,Integração,Administrativo,Coordenador Administrativo,3,Neutro,3,Neutro
+500,Lobo,40,34-42,0.6,Integração,Financeiro,Analista Financeiro,4,Satisfeito,4,Recomendaria
+131,Delta,42,34-42,0.8,Integração,Planejamento,Analista Planejamento,3,Neutro,3,Neutro
+110,Sol,41,34-42,0.9,Integração,Comercial,Analista Comercial,4,Satisfeito,4,Recomendaria
+163,Águia,37,34-42,0.9,Integração,Operação,Motorista,4,Satisfeito,4,Recomendaria
+263,Lobo,36,34-42,0.9,Integração,Marketing,Assistente Marketing,4,Satisfeito,4,Recomendaria
+287,Delta,39,34-42,0.9,Integração,Comercial,Analista Comercial,3,Neutro,4,Recomendaria
+319,Cometa,42,34-42,1.0,Consolidação,Administrativo,Assistente Administrativo,3,Neutro,3,Neutro
+18,Nuvem,42,34-42,1.1,Consolidação,Operação,Fiscal Operacional,4,Satisfeito,4,Recomendaria
+47,Nuvem,38,34-42,1.1,Consolidação,Experiência do Cliente,Analista CX,4,Satisfeito,5,Recomendaria fortemente
+241,Águia,39,34-42,1.1,Consolidação,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+291,Delta,38,34-42,1.2,Consolidação,Administrativo,Assistente Administrativo,3,Neutro,2,Pouco provável recomendar
+310,Lua,41,34-42,1.2,Consolidação,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+52,Delta,42,34-42,1.5,Consolidação,Atendimento,Atendente,5,Muito satisfeito,4,Recomendaria
+66,Águia,35,34-42,1.5,Consolidação,Manutenção,Eletricista,5,Muito satisfeito,5,Recomendaria fortemente
+196,Falcão,36,34-42,1.5,Consolidação,Operação,Despachante,5,Muito satisfeito,4,Recomendaria
+206,Eco,36,34-42,1.6,Consolidação,Financeiro,Assistente Financeiro,3,Neutro,3,Neutro
+296,Sol,40,34-42,1.6,Consolidação,Operação,Despachante,4,Satisfeito,4,Recomendaria
+213,Orion,37,34-42,1.7,Consolidação,Administrativo,Coordenador Administrativo,4,Satisfeito,4,Recomendaria
+333,Delta,38,34-42,1.7,Consolidação,Comercial,Executivo Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+134,Nuvem,40,34-42,1.9,Consolidação,Experiência do Cliente,Analista CX,4,Satisfeito,4,Recomendaria
+414,Delta,35,34-42,1.9,Consolidação,Financeiro,Assistente Financeiro,5,Muito satisfeito,5,Recomendaria fortemente
+487,Falcão,37,34-42,1.9,Consolidação,Operação,Despachante,3,Neutro,3,Neutro
+71,Cometa,39,34-42,2.0,Consolidação,Operação,Supervisor Operacional,4,Satisfeito,3,Neutro
+108,Aurora,41,34-42,2.0,Consolidação,Operação,Motorista,4,Satisfeito,4,Recomendaria
+326,Cometa,38,34-42,2.2,Consolidação,Operação,Fiscal Operacional,4,Satisfeito,3,Neutro
+422,Jade,42,34-42,2.3,Consolidação,Administrativo,Analista Administrativo,5,Muito satisfeito,5,Recomendaria fortemente
+141,Lua,41,34-42,2.4,Consolidação,Financeiro,Assistente Financeiro,4,Satisfeito,4,Recomendaria
+2,Panda,37,34-42,2.5,Consolidação,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+197,Pixel,41,34-42,2.5,Consolidação,Operação,Despachante,4,Satisfeito,4,Recomendaria
+498,Falcão,36,34-42,2.6,Consolidação,Planejamento,Analista Planejamento,4,Satisfeito,5,Recomendaria fortemente
+295,Lobo,39,34-42,2.7,Consolidação,Tecnologia,Analista de Sistemas,4,Satisfeito,4,Recomendaria
+68,Aurora,36,34-42,2.8,Consolidação,Operação,Fiscal Operacional,3,Neutro,3,Neutro
+283,Orion,36,34-42,2.8,Consolidação,Manutenção,Auxiliar de Manutenção,3,Neutro,2,Pouco provável recomendar
+153,Safira,40,34-42,2.9,Consolidação,Manutenção,Auxiliar de Manutenção,3,Neutro,3,Neutro
+237,Cometa,41,34-42,2.9,Consolidação,Atendimento,Atendente,4,Satisfeito,4,Recomendaria
+155,Cometa,36,34-42,3.0,Consolidação,Financeiro,Assistente Financeiro,5,Muito satisfeito,5,Recomendaria fortemente
+254,Aurora,38,34-42,3.0,Consolidação,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+397,Safira,36,34-42,3.0,Consolidação,Planejamento,Analista Planejamento,4,Satisfeito,4,Recomendaria
+408,Orion,38,34-42,3.3,Maturidade,Operação,Fiscal Operacional,5,Muito satisfeito,4,Recomendaria
+472,Lobo,38,34-42,3.3,Maturidade,Operação,Despachante,4,Satisfeito,4,Recomendaria
+118,Falcão,37,34-42,3.5,Maturidade,Operação,Motorista,4,Satisfeito,4,Recomendaria
+424,Atlas,42,34-42,3.5,Maturidade,Comercial,Executivo Comercial,4,Satisfeito,4,Recomendaria
+323,Trovão,38,34-42,3.8,Maturidade,RH,Analista RH,4,Satisfeito,4,Recomendaria
+480,Orion,38,34-42,3.8,Maturidade,Operação,Despachante,4,Satisfeito,5,Recomendaria fortemente
+9,Safira,38,34-42,3.9,Maturidade,Manutenção,Técnico de Manutenção,3,Neutro,3,Neutro
+176,Águia,37,34-42,3.9,Maturidade,Experiência do Cliente,Analista CX,4,Satisfeito,4,Recomendaria
+223,Jade,42,34-42,4.2,Maturidade,Operação,Despachante,4,Satisfeito,4,Recomendaria
+257,Cometa,37,34-42,4.2,Maturidade,Jurídico,Assistente Jurídico,5,Muito satisfeito,5,Recomendaria fortemente
+491,Vento,37,34-42,4.5,Maturidade,Atendimento,Atendente,4,Satisfeito,4,Recomendaria
+15,Eco,40,34-42,4.6,Maturidade,Tecnologia,Analista de Dados,5,Muito satisfeito,5,Recomendaria fortemente
+25,Bravo,42,34-42,4.8,Maturidade,Tecnologia,Desenvolvedor,4,Satisfeito,3,Neutro
+43,Jade,40,34-42,5.0,Maturidade,Tecnologia,Analista de Dados,5,Muito satisfeito,5,Recomendaria fortemente
+167,Sol,37,34-42,5.0,Maturidade,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+415,Águia,36,34-42,5.0,Maturidade,Marketing,Analista Marketing,4,Satisfeito,3,Neutro
+89,Lua,40,34-42,5.2,Embaixadores,Comercial,Executivo Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+37,Bravo,35,34-42,5.3,Embaixadores,Operação,Fiscal Operacional,4,Satisfeito,5,Recomendaria fortemente
+121,Panda,39,34-42,5.3,Embaixadores,RH,Analista RH,4,Satisfeito,5,Recomendaria fortemente
+162,Nuvem,35,34-42,5.3,Embaixadores,Operação,Despachante,4,Satisfeito,4,Recomendaria
+258,Eco,39,34-42,5.3,Embaixadores,Atendimento,Atendente,3,Neutro,4,Recomendaria
+119,Orion,41,34-42,5.4,Embaixadores,RH,Business Partner,4,Satisfeito,4,Recomendaria
+267,Sol,35,34-42,5.4,Embaixadores,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+28,Atlas,42,34-42,6.1,Embaixadores,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+207,Vento,36,34-42,6.1,Embaixadores,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+21,Bravo,35,34-42,6.3,Embaixadores,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+225,Pixel,37,34-42,6.9,Embaixadores,Operação,Fiscal Operacional,5,Muito satisfeito,4,Recomendaria
+412,Sirius,37,34-42,6.9,Embaixadores,Administrativo,Coordenador Administrativo,4,Satisfeito,3,Neutro
+29,Delta,42,34-42,7.6,Embaixadores,Financeiro,Analista Financeiro,5,Muito satisfeito,5,Recomendaria fortemente
+177,Orion,37,34-42,7.6,Embaixadores,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+371,Cometa,38,34-42,8.5,Embaixadores,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+79,Safira,39,34-42,8.7,Embaixadores,Tecnologia,Analista de Sistemas,4,Satisfeito,5,Recomendaria fortemente
+49,Sol,39,34-42,9.2,Embaixadores,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+174,Lua,37,34-42,9.5,Embaixadores,Operação,Supervisor Operacional,4,Satisfeito,5,Recomendaria fortemente
+73,Jade,35,34-42,10.8,Veteranos,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+226,Aurora,38,34-42,11.2,Veteranos,Operação,Motorista,4,Satisfeito,4,Recomendaria
+35,Delta,41,34-42,12.2,Veteranos,Tecnologia,Analista de Sistemas,3,Neutro,3,Neutro
+270,Aurora,35,34-42,12.2,Veteranos,Comercial,Executivo Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+69,Águia,36,34-42,12.3,Veteranos,Financeiro,Assistente Financeiro,5,Muito satisfeito,5,Recomendaria fortemente
+189,Panda,35,34-42,12.9,Veteranos,Operação,Despachante,4,Satisfeito,4,Recomendaria
+259,Nuvem,37,34-42,13.2,Veteranos,Administrativo,Analista Administrativo,3,Neutro,3,Neutro
+471,Vento,37,34-42,13.2,Veteranos,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+40,Cometa,40,34-42,13.8,Veteranos,Atendimento,Atendente,5,Muito satisfeito,5,Recomendaria fortemente
+202,Bravo,36,34-42,14.3,Veteranos,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+246,Delta,39,34-42,14.6,Veteranos,RH,Analista RH,5,Muito satisfeito,5,Recomendaria fortemente
+3,Jade,38,34-42,18.8,Veteranos,Financeiro,Assistente Financeiro,5,Muito satisfeito,5,Recomendaria fortemente
+463,Atlas,40,34-42,21.4,Legado,Marketing,Analista Marketing,5,Muito satisfeito,5,Recomendaria fortemente
+391,Trovão,35,34-42,22.4,Legado,Atendimento,Atendente,4,Satisfeito,3,Neutro
+350,Águia,41,34-42,22.9,Legado,Tecnologia,Analista de Dados,4,Satisfeito,5,Recomendaria fortemente
+16,Lua,39,34-42,26.0,Legado,Comercial,Analista Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+136,Nuvem,32,26-34,0.2,Integração,Tecnologia,Analista de Sistemas,4,Satisfeito,4,Recomendaria
+182,Sirius,32,26-34,0.2,Integração,Financeiro,Analista Financeiro,3,Neutro,4,Recomendaria
+286,Jade,27,26-34,0.2,Integração,Operação,Fiscal Operacional,4,Satisfeito,5,Recomendaria fortemente
+227,Sol,27,26-34,0.3,Integração,Operação,Fiscal Operacional,4,Satisfeito,4,Recomendaria
+238,Falcão,34,26-34,0.3,Integração,Administrativo,Analista Administrativo,4,Satisfeito,4,Recomendaria
+242,Safira,32,26-34,0.3,Integração,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+272,Delta,28,26-34,0.3,Integração,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+341,Safira,26,26-34,0.3,Integração,Atendimento,Atendente,4,Satisfeito,4,Recomendaria
+209,Aurora,27,26-34,0.4,Integração,Comercial,Executivo Comercial,3,Neutro,4,Recomendaria
+233,Lua,33,26-34,0.4,Integração,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+260,Nuvem,29,26-34,0.4,Integração,Financeiro,Analista Financeiro,4,Satisfeito,4,Recomendaria
+345,Nuvem,32,26-34,0.4,Integração,Comercial,Executivo Comercial,3,Neutro,2,Pouco provável recomendar
+357,Vento,27,26-34,0.4,Integração,Atendimento,Atendente,4,Satisfeito,4,Recomendaria
+87,Safira,34,26-34,0.5,Integração,Tecnologia,Analista de Dados,5,Muito satisfeito,4,Recomendaria
+336,Águia,30,26-34,0.5,Integração,Operação,Supervisor Operacional,4,Satisfeito,4,Recomendaria
+1,Jade,34,26-34,0.6,Integração,Operação,Motorista,5,Muito satisfeito,4,Recomendaria
+137,Águia,26,26-34,0.6,Integração,Operação,Motorista,4,Satisfeito,4,Recomendaria
+322,Trovão,30,26-34,0.6,Integração,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+352,Águia,30,26-34,0.6,Integração,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+482,Atlas,26,26-34,0.6,Integração,Experiência do Cliente,Analista CX,5,Muito satisfeito,5,Recomendaria fortemente
+154,Cometa,29,26-34,0.7,Integração,Tecnologia,Desenvolvedor,4,Satisfeito,5,Recomendaria fortemente
+266,Aurora,33,26-34,0.7,Integração,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+436,Atlas,27,26-34,0.7,Integração,Operação,Motorista,4,Satisfeito,4,Recomendaria
+451,Delta,27,26-34,0.7,Integração,Marketing,Assistente Marketing,4,Satisfeito,3,Neutro
+38,Delta,32,26-34,0.8,Integração,Administrativo,Coordenador Administrativo,4,Satisfeito,4,Recomendaria
+39,Trovão,33,26-34,0.8,Integração,Marketing,Analista Marketing,4,Satisfeito,5,Recomendaria fortemente
+90,Jade,26,26-34,0.8,Integração,Operação,Despachante,4,Satisfeito,4,Recomendaria
+168,Bravo,27,26-34,0.8,Integração,Comercial,Executivo Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+358,Pixel,33,26-34,0.8,Integração,Manutenção,Eletricista,4,Satisfeito,4,Recomendaria
+378,Jade,28,26-34,0.8,Integração,Atendimento,Atendente,4,Satisfeito,3,Neutro
+388,Vento,28,26-34,0.8,Integração,Planejamento,Analista Planejamento,2,Insatisfeito,2,Pouco provável recomendar
+419,Bravo,32,26-34,0.8,Integração,Atendimento,Supervisor Atendimento,4,Satisfeito,4,Recomendaria
+27,Bravo,30,26-34,0.9,Integração,Manutenção,Técnico de Manutenção,5,Muito satisfeito,5,Recomendaria fortemente
+138,Vento,28,26-34,0.9,Integração,Operação,Despachante,4,Satisfeito,4,Recomendaria
+144,Falcão,33,26-34,0.9,Integração,RH,Analista RH,4,Satisfeito,5,Recomendaria fortemente
+151,Nuvem,34,26-34,0.9,Integração,Operação,Fiscal Operacional,4,Satisfeito,4,Recomendaria
+335,Lobo,32,26-34,0.9,Integração,Operação,Despachante,4,Satisfeito,3,Neutro
+366,Delta,33,26-34,0.9,Integração,Administrativo,Analista Administrativo,4,Satisfeito,4,Recomendaria
+379,Aurora,26,26-34,0.9,Integração,Tecnologia,Desenvolvedor,4,Satisfeito,4,Recomendaria
+454,Pixel,29,26-34,0.9,Integração,Financeiro,Assistente Financeiro,3,Neutro,3,Neutro
+133,Trovão,33,26-34,1.0,Consolidação,Operação,Fiscal Operacional,3,Neutro,4,Recomendaria
+300,Pixel,34,26-34,1.1,Consolidação,RH,Analista RH,5,Muito satisfeito,5,Recomendaria fortemente
+347,Eco,27,26-34,1.1,Consolidação,Experiência do Cliente,Analista CX,4,Satisfeito,5,Recomendaria fortemente
+126,Sol,27,26-34,1.2,Consolidação,Atendimento,Atendente,4,Satisfeito,4,Recomendaria
+256,Lobo,34,26-34,1.2,Consolidação,Operação,Fiscal Operacional,4,Satisfeito,3,Neutro
+311,Lobo,29,26-34,1.2,Consolidação,Administrativo,Coordenador Administrativo,3,Neutro,4,Recomendaria
+130,Bravo,28,26-34,1.3,Consolidação,Experiência do Cliente,Analista CX,5,Muito satisfeito,5,Recomendaria fortemente
+276,Águia,30,26-34,1.4,Consolidação,Administrativo,Analista Administrativo,4,Satisfeito,5,Recomendaria fortemente
+290,Lua,34,26-34,1.4,Consolidação,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+361,Aurora,29,26-34,1.4,Consolidação,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+293,Sirius,34,26-34,1.5,Consolidação,Operação,Motorista,4,Satisfeito,4,Recomendaria
+190,Lua,31,26-34,1.6,Consolidação,Manutenção,Técnico de Manutenção,4,Satisfeito,3,Neutro
+359,Eco,27,26-34,1.6,Consolidação,Tecnologia,Desenvolvedor,5,Muito satisfeito,5,Recomendaria fortemente
+220,Cometa,29,26-34,1.7,Consolidação,Administrativo,Analista Administrativo,4,Satisfeito,4,Recomendaria
+252,Nuvem,29,26-34,1.7,Consolidação,Operação,Supervisor Operacional,4,Satisfeito,3,Neutro
+477,Lobo,31,26-34,1.7,Consolidação,RH,Analista RH,5,Muito satisfeito,5,Recomendaria fortemente
+332,Falcão,27,26-34,1.8,Consolidação,Comercial,Executivo Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+56,Atlas,33,26-34,1.9,Consolidação,Tecnologia,Analista de Dados,4,Satisfeito,4,Recomendaria
+171,Sol,26,26-34,1.9,Consolidação,Operação,Motorista,4,Satisfeito,4,Recomendaria
+228,Cometa,31,26-34,1.9,Consolidação,Comercial,Analista Comercial,4,Satisfeito,5,Recomendaria fortemente
+230,Delta,29,26-34,1.9,Consolidação,Operação,Fiscal Operacional,4,Satisfeito,4,Recomendaria
+452,Aurora,29,26-34,1.9,Consolidação,Comercial,Analista Comercial,4,Satisfeito,4,Recomendaria
+262,Aurora,32,26-34,2.0,Consolidação,Operação,Motorista,3,Neutro,4,Recomendaria
+479,Pixel,31,26-34,2.0,Consolidação,Tecnologia,Analista de Sistemas,4,Satisfeito,5,Recomendaria fortemente
+377,Falcão,32,26-34,2.1,Consolidação,Administrativo,Analista Administrativo,3,Neutro,3,Neutro
+30,Jade,27,26-34,2.2,Consolidação,Planejamento,Analista Planejamento,3,Neutro,4,Recomendaria
+247,Atlas,32,26-34,2.2,Consolidação,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+317,Eco,33,26-34,2.2,Consolidação,Administrativo,Coordenador Administrativo,4,Satisfeito,4,Recomendaria
+423,Jade,26,26-34,2.2,Consolidação,Comercial,Executivo Comercial,4,Satisfeito,5,Recomendaria fortemente
+91,Delta,34,26-34,2.3,Consolidação,RH,Assistente RH,4,Satisfeito,5,Recomendaria fortemente
+100,Pixel,28,26-34,2.3,Consolidação,Administrativo,Coordenador Administrativo,3,Neutro,3,Neutro
+179,Vento,27,26-34,2.3,Consolidação,Administrativo,Assistente Administrativo,4,Satisfeito,4,Recomendaria
+353,Atlas,34,26-34,2.3,Consolidação,Operação,Fiscal Operacional,4,Satisfeito,4,Recomendaria
+474,Atlas,29,26-34,2.3,Consolidação,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+34,Pixel,33,26-34,2.4,Consolidação,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+45,Trovão,26,26-34,2.4,Consolidação,Operação,Fiscal Operacional,3,Neutro,4,Recomendaria
+120,Lobo,29,26-34,2.4,Consolidação,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+494,Bravo,28,26-34,2.4,Consolidação,Operação,Fiscal Operacional,4,Satisfeito,5,Recomendaria fortemente
+372,Jade,33,26-34,2.5,Consolidação,RH,Business Partner,4,Satisfeito,5,Recomendaria fortemente
+36,Lua,29,26-34,2.6,Consolidação,Financeiro,Analista Financeiro,4,Satisfeito,5,Recomendaria fortemente
+324,Aurora,29,26-34,2.6,Consolidação,Operação,Supervisor Operacional,4,Satisfeito,4,Recomendaria
+381,Sol,30,26-34,2.6,Consolidação,Operação,Supervisor Operacional,4,Satisfeito,3,Neutro
+142,Sol,30,26-34,2.7,Consolidação,Administrativo,Analista Administrativo,4,Satisfeito,4,Recomendaria
+188,Eco,26,26-34,2.7,Consolidação,Operação,Supervisor Operacional,4,Satisfeito,5,Recomendaria fortemente
+214,Atlas,31,26-34,2.7,Consolidação,Operação,Despachante,3,Neutro,3,Neutro
+232,Jade,29,26-34,2.7,Consolidação,Operação,Despachante,4,Satisfeito,4,Recomendaria
+282,Jade,26,26-34,2.7,Consolidação,Operação,Supervisor Operacional,3,Neutro,3,Neutro
+7,Sirius,31,26-34,2.8,Consolidação,Operação,Fiscal Operacional,4,Satisfeito,5,Recomendaria fortemente
+271,Águia,31,26-34,2.8,Consolidação,Comercial,Executivo Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+235,Orion,27,26-34,2.9,Consolidação,Tecnologia,Desenvolvedor,5,Muito satisfeito,4,Recomendaria
+277,Sirius,34,26-34,2.9,Consolidação,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+315,Atlas,31,26-34,2.9,Consolidação,Operação,Despachante,4,Satisfeito,5,Recomendaria fortemente
+344,Safira,30,26-34,2.9,Consolidação,Planejamento,Analista Planejamento,5,Muito satisfeito,5,Recomendaria fortemente
+411,Eco,30,26-34,2.9,Consolidação,Manutenção,Eletricista,5,Muito satisfeito,5,Recomendaria fortemente
+462,Sol,29,26-34,3.0,Consolidação,Financeiro,Assistente Financeiro,4,Satisfeito,4,Recomendaria
+248,Aurora,27,26-34,3.1,Maturidade,Planejamento,Analista Planejamento,4,Satisfeito,3,Neutro
+401,Lobo,31,26-34,3.2,Maturidade,Financeiro,Analista Financeiro,4,Satisfeito,5,Recomendaria fortemente
+306,Delta,34,26-34,3.4,Maturidade,Experiência do Cliente,Analista CX,4,Satisfeito,3,Neutro
+308,Pixel,29,26-34,3.6,Maturidade,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+385,Sol,32,26-34,3.6,Maturidade,Tecnologia,Desenvolvedor,3,Neutro,4,Recomendaria
+455,Vento,30,26-34,3.6,Maturidade,Manutenção,Técnico de Manutenção,4,Satisfeito,4,Recomendaria
+354,Trovão,33,26-34,3.9,Maturidade,Financeiro,Analista Financeiro,5,Muito satisfeito,4,Recomendaria
+386,Vento,28,26-34,3.9,Maturidade,Planejamento,Analista Planejamento,4,Satisfeito,5,Recomendaria fortemente
+384,Águia,29,26-34,4.2,Maturidade,Manutenção,Auxiliar de Manutenção,3,Neutro,4,Recomendaria
+370,Pixel,29,26-34,4.3,Maturidade,Experiência do Cliente,Analista CX,3,Neutro,2,Pouco provável recomendar
+201,Atlas,33,26-34,4.4,Maturidade,Manutenção,Auxiliar de Manutenção,3,Neutro,4,Recomendaria
+383,Trovão,34,26-34,4.5,Maturidade,Operação,Supervisor Operacional,4,Satisfeito,4,Recomendaria
+438,Eco,29,26-34,4.7,Maturidade,Manutenção,Mecânico,4,Satisfeito,4,Recomendaria
+81,Pixel,33,26-34,4.9,Maturidade,RH,Business Partner,4,Satisfeito,4,Recomendaria
+360,Jade,31,26-34,4.9,Maturidade,Operação,Fiscal Operacional,4,Satisfeito,5,Recomendaria fortemente
+458,Sirius,30,26-34,5.0,Maturidade,Tecnologia,Analista de Dados,4,Satisfeito,5,Recomendaria fortemente
+158,Panda,32,26-34,5.2,Embaixadores,Tecnologia,Analista de Dados,4,Satisfeito,3,Neutro
+430,Águia,29,26-34,5.3,Embaixadores,Administrativo,Coordenador Administrativo,5,Muito satisfeito,5,Recomendaria fortemente
+200,Panda,33,26-34,5.4,Embaixadores,Operação,Motorista,4,Satisfeito,5,Recomendaria fortemente
+356,Sol,31,26-34,5.4,Embaixadores,Comercial,Analista Comercial,4,Satisfeito,4,Recomendaria
+393,Vento,28,26-34,5.6,Embaixadores,Operação,Motorista,4,Satisfeito,4,Recomendaria
+78,Orion,31,26-34,5.8,Embaixadores,Manutenção,Eletricista,4,Satisfeito,3,Neutro
+32,Falcão,28,26-34,6.0,Embaixadores,Comercial,Executivo Comercial,4,Satisfeito,5,Recomendaria fortemente
+343,Bravo,29,26-34,6.0,Embaixadores,Administrativo,Assistente Administrativo,4,Satisfeito,5,Recomendaria fortemente
+33,Águia,30,26-34,6.6,Embaixadores,Operação,Despachante,4,Satisfeito,5,Recomendaria fortemente
+57,Águia,29,26-34,6.6,Embaixadores,Operação,Fiscal Operacional,4,Satisfeito,3,Neutro
+284,Lua,26,26-34,6.6,Embaixadores,Operação,Motorista,4,Satisfeito,4,Recomendaria
+387,Trovão,32,26-34,6.6,Embaixadores,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+394,Panda,27,26-34,6.6,Embaixadores,Jurídico,Assistente Jurídico,4,Satisfeito,5,Recomendaria fortemente
+493,Pixel,29,26-34,6.6,Embaixadores,Operação,Fiscal Operacional,4,Satisfeito,3,Neutro
+101,Nuvem,26,26-34,6.7,Embaixadores,Atendimento,Atendente,4,Satisfeito,5,Recomendaria fortemente
+407,Lobo,31,26-34,7.0,Embaixadores,Atendimento,Supervisor Atendimento,3,Neutro,3,Neutro
+382,Vento,31,26-34,7.5,Embaixadores,Operação,Despachante,4,Satisfeito,5,Recomendaria fortemente
+157,Lobo,33,26-34,8.3,Embaixadores,Tecnologia,Desenvolvedor,5,Muito satisfeito,5,Recomendaria fortemente
+251,Lobo,30,26-34,8.3,Embaixadores,Atendimento,Atendente,4,Satisfeito,3,Neutro
+231,Jade,27,26-34,8.8,Embaixadores,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+427,Pixel,28,26-34,9.7,Embaixadores,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+113,Orion,29,26-34,10.3,Veteranos,Atendimento,Supervisor Atendimento,4,Satisfeito,3,Neutro
+94,Panda,32,26-34,10.7,Veteranos,Operação,Despachante,5,Muito satisfeito,4,Recomendaria
+346,Águia,28,26-34,10.7,Veteranos,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+433,Bravo,34,26-34,11.1,Veteranos,Operação,Fiscal Operacional,4,Satisfeito,4,Recomendaria
+97,Orion,26,26-34,11.2,Veteranos,Manutenção,Mecânico,4,Satisfeito,3,Neutro
+215,Falcão,29,26-34,11.2,Veteranos,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+426,Lua,31,26-34,11.3,Veteranos,Experiência do Cliente,Analista CX,4,Satisfeito,5,Recomendaria fortemente
+135,Trovão,29,26-34,11.4,Veteranos,Financeiro,Analista Financeiro,4,Satisfeito,5,Recomendaria fortemente
+405,Trovão,31,26-34,11.4,Veteranos,Tecnologia,Analista de Sistemas,5,Muito satisfeito,5,Recomendaria fortemente
+339,Panda,29,26-34,11.7,Veteranos,Administrativo,Coordenador Administrativo,4,Satisfeito,5,Recomendaria fortemente
+239,Safira,32,26-34,12.4,Veteranos,Manutenção,Auxiliar de Manutenção,4,Satisfeito,5,Recomendaria fortemente
+434,Bravo,28,26-34,12.4,Veteranos,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+244,Lua,34,26-34,12.5,Veteranos,Marketing,Assistente Marketing,5,Muito satisfeito,5,Recomendaria fortemente
+261,Lobo,30,26-34,12.5,Veteranos,Manutenção,Técnico de Manutenção,4,Satisfeito,3,Neutro
+54,Safira,27,26-34,12.9,Veteranos,Operação,Motorista,4,Satisfeito,4,Recomendaria
+211,Sol,33,26-34,13.2,Veteranos,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+281,Nuvem,28,26-34,13.2,Veteranos,Manutenção,Técnico de Manutenção,4,Satisfeito,4,Recomendaria
+42,Sirius,31,26-34,13.4,Veteranos,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+330,Safira,30,26-34,13.4,Veteranos,Manutenção,Mecânico,4,Satisfeito,4,Recomendaria
+299,Vento,34,26-34,13.5,Veteranos,Planejamento,Analista Planejamento,4,Satisfeito,4,Recomendaria
+107,Cometa,28,26-34,13.6,Veteranos,Operação,Fiscal Operacional,3,Neutro,3,Neutro
+76,Sol,27,26-34,13.7,Veteranos,Comercial,Analista Comercial,4,Satisfeito,4,Recomendaria
+77,Lobo,27,26-34,13.7,Veteranos,Operação,Motorista,4,Satisfeito,4,Recomendaria
+109,Aurora,33,26-34,13.7,Veteranos,Tecnologia,Desenvolvedor,4,Satisfeito,4,Recomendaria
+249,Nuvem,32,26-34,14.1,Veteranos,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+390,Nuvem,31,26-34,14.1,Veteranos,Marketing,Assistente Marketing,4,Satisfeito,4,Recomendaria
+288,Nuvem,29,26-34,14.5,Veteranos,Comercial,Executivo Comercial,4,Satisfeito,4,Recomendaria
+192,Panda,27,26-34,14.7,Veteranos,Tecnologia,Analista de Dados,4,Satisfeito,4,Recomendaria
+106,Pixel,32,26-34,15.0,Veteranos,Administrativo,Assistente Administrativo,4,Satisfeito,5,Recomendaria fortemente
+446,Aurora,32,26-34,15.4,Veteranos,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+10,Bravo,30,26-34,16.4,Veteranos,Experiência do Cliente,Analista CX,4,Satisfeito,4,Recomendaria
+83,Falcão,32,26-34,18.1,Veteranos,Manutenção,Técnico de Manutenção,3,Neutro,4,Recomendaria
+203,Eco,27,26-34,19.8,Veteranos,Atendimento,Supervisor Atendimento,3,Neutro,3,Neutro
+117,Falcão,26,26-34,20.7,Legado,Marketing,Analista Marketing,5,Muito satisfeito,4,Recomendaria
+264,Panda,31,26-34,22.0,Legado,Marketing,Analista Marketing,5,Muito satisfeito,5,Recomendaria fortemente
+441,Panda,32,26-34,22.3,Legado,Manutenção,Eletricista,3,Neutro,4,Recomendaria
+364,Aurora,32,26-34,22.7,Legado,Comercial,Analista Comercial,4,Satisfeito,4,Recomendaria
+302,Cometa,29,26-34,23.0,Legado,Operação,Supervisor Operacional,4,Satisfeito,5,Recomendaria fortemente
+316,Safira,33,26-34,24.8,Legado,Financeiro,Analista Financeiro,4,Satisfeito,4,Recomendaria
+399,Nuvem,28,26-34,26.1,Legado,RH,Analista RH,5,Muito satisfeito,5,Recomendaria fortemente
+429,Trovão,34,26-34,28.0,Legado,Manutenção,Técnico de Manutenção,4,Satisfeito,4,Recomendaria
+166,Nuvem,29,26-34,30.3,Legado,Operação,Motorista,5,Muito satisfeito,4,Recomendaria
+484,Panda,32,26-34,30.3,Legado,Manutenção,Mecânico,4,Satisfeito,5,Recomendaria fortemente
+17,Cometa,25,<26,0.2,Integração,Manutenção,Mecânico,4,Satisfeito,4,Recomendaria
+148,Panda,20,<26,0.2,Integração,Atendimento,Atendente,4,Satisfeito,5,Recomendaria fortemente
+380,Aurora,18,<26,0.2,Integração,Jurídico,Assistente Jurídico,3,Neutro,3,Neutro
+60,Trovão,19,<26,0.3,Integração,RH,Business Partner,4,Satisfeito,5,Recomendaria fortemente
+93,Sirius,23,<26,0.3,Integração,Marketing,Assistente Marketing,4,Satisfeito,5,Recomendaria fortemente
+348,Sirius,23,<26,0.3,Integração,Financeiro,Assistente Financeiro,4,Satisfeito,5,Recomendaria fortemente
+362,Sirius,20,<26,0.3,Integração,Atendimento,Supervisor Atendimento,5,Muito satisfeito,5,Recomendaria fortemente
+428,Atlas,23,<26,0.3,Integração,Manutenção,Mecânico,5,Muito satisfeito,5,Recomendaria fortemente
+104,Nuvem,20,<26,0.4,Integração,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+467,Falcão,19,<26,0.4,Integração,Financeiro,Analista Financeiro,3,Neutro,4,Recomendaria
+481,Águia,21,<26,0.4,Integração,Financeiro,Assistente Financeiro,5,Muito satisfeito,5,Recomendaria fortemente
+22,Jade,18,<26,0.5,Integração,Operação,Motorista,4,Satisfeito,3,Neutro
+72,Jade,20,<26,0.5,Integração,Jurídico,Assistente Jurídico,3,Neutro,5,Recomendaria fortemente
+173,Cometa,18,<26,0.5,Integração,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+51,Vento,22,<26,0.6,Integração,Administrativo,Assistente Administrativo,4,Satisfeito,4,Recomendaria
+102,Panda,25,<26,0.7,Integração,Operação,Supervisor Operacional,4,Satisfeito,5,Recomendaria fortemente
+221,Lobo,25,<26,0.7,Integração,Tecnologia,Analista de Dados,4,Satisfeito,4,Recomendaria
+26,Atlas,22,<26,0.8,Integração,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+61,Bravo,22,<26,0.8,Integração,Administrativo,Assistente Administrativo,5,Muito satisfeito,5,Recomendaria fortemente
+453,Sirius,23,<26,0.8,Integração,Atendimento,Supervisor Atendimento,2,Insatisfeito,2,Pouco provável recomendar
+67,Jade,25,<26,0.9,Integração,Tecnologia,Desenvolvedor,4,Satisfeito,4,Recomendaria
+75,Safira,25,<26,0.9,Integração,Operação,Fiscal Operacional,3,Neutro,4,Recomendaria
+191,Orion,20,<26,1.1,Consolidação,Administrativo,Analista Administrativo,4,Satisfeito,5,Recomendaria fortemente
+470,Eco,23,<26,1.2,Consolidação,Comercial,Analista Comercial,4,Satisfeito,5,Recomendaria fortemente
+492,Águia,20,<26,1.2,Consolidação,Tecnologia,Desenvolvedor,5,Muito satisfeito,4,Recomendaria
+96,Eco,18,<26,1.3,Consolidação,Financeiro,Analista Financeiro,4,Satisfeito,5,Recomendaria fortemente
+127,Pixel,21,<26,1.3,Consolidação,Operação,Supervisor Operacional,4,Satisfeito,3,Neutro
+403,Panda,21,<26,1.3,Consolidação,Atendimento,Supervisor Atendimento,4,Satisfeito,4,Recomendaria
+425,Panda,21,<26,1.3,Consolidação,Administrativo,Coordenador Administrativo,3,Neutro,4,Recomendaria
+161,Panda,19,<26,1.5,Consolidação,Tecnologia,Analista de Sistemas,5,Muito satisfeito,5,Recomendaria fortemente
+437,Falcão,23,<26,1.5,Consolidação,Comercial,Executivo Comercial,4,Satisfeito,5,Recomendaria fortemente
+14,Águia,19,<26,1.6,Consolidação,Manutenção,Técnico de Manutenção,5,Muito satisfeito,5,Recomendaria fortemente
+329,Lobo,20,<26,1.6,Consolidação,Tecnologia,Desenvolvedor,4,Satisfeito,4,Recomendaria
+495,Safira,21,<26,1.6,Consolidação,Tecnologia,Analista de Sistemas,5,Muito satisfeito,5,Recomendaria fortemente
+55,Aurora,21,<26,1.7,Consolidação,Tecnologia,Desenvolvedor,4,Satisfeito,3,Neutro
+349,Cometa,23,<26,1.8,Consolidação,Manutenção,Técnico de Manutenção,5,Muito satisfeito,5,Recomendaria fortemente
+218,Lobo,25,<26,1.9,Consolidação,Administrativo,Coordenador Administrativo,4,Satisfeito,4,Recomendaria
+139,Vento,22,<26,2.0,Consolidação,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+279,Lobo,21,<26,2.0,Consolidação,Tecnologia,Desenvolvedor,3,Neutro,3,Neutro
+431,Eco,21,<26,2.1,Consolidação,Manutenção,Auxiliar de Manutenção,3,Neutro,3,Neutro
+105,Panda,18,<26,2.2,Consolidação,Comercial,Analista Comercial,4,Satisfeito,4,Recomendaria
+369,Sirius,22,<26,2.2,Consolidação,Administrativo,Analista Administrativo,4,Satisfeito,4,Recomendaria
+309,Cometa,19,<26,2.5,Consolidação,Operação,Despachante,4,Satisfeito,4,Recomendaria
+416,Cometa,25,<26,2.5,Consolidação,Operação,Despachante,4,Satisfeito,3,Neutro
+400,Falcão,23,<26,2.6,Consolidação,Operação,Supervisor Operacional,4,Satisfeito,3,Neutro
+404,Jade,22,<26,2.7,Consolidação,Operação,Despachante,3,Neutro,4,Recomendaria
+321,Pixel,24,<26,2.8,Consolidação,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+193,Águia,19,<26,2.9,Consolidação,Operação,Motorista,5,Muito satisfeito,5,Recomendaria fortemente
+208,Nuvem,19,<26,2.9,Consolidação,Operação,Motorista,3,Neutro,4,Recomendaria
+53,Aurora,25,<26,3.1,Maturidade,Tecnologia,Analista de Dados,3,Neutro,3,Neutro
+409,Nuvem,22,<26,3.1,Maturidade,Operação,Motorista,3,Neutro,3,Neutro
+20,Lua,20,<26,3.2,Maturidade,Administrativo,Analista Administrativo,3,Neutro,3,Neutro
+48,Lua,22,<26,3.2,Maturidade,Administrativo,Coordenador Administrativo,5,Muito satisfeito,5,Recomendaria fortemente
+496,Bravo,25,<26,3.6,Maturidade,Administrativo,Coordenador Administrativo,4,Satisfeito,4,Recomendaria
+365,Atlas,18,<26,3.7,Maturidade,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+170,Safira,25,<26,3.8,Maturidade,RH,Assistente RH,2,Insatisfeito,3,Neutro
+98,Vento,24,<26,4.3,Maturidade,RH,Analista RH,4,Satisfeito,4,Recomendaria
+421,Cometa,25,<26,4.5,Maturidade,Manutenção,Mecânico,4,Satisfeito,4,Recomendaria
+149,Eco,18,<26,4.6,Maturidade,Atendimento,Supervisor Atendimento,4,Satisfeito,4,Recomendaria
+447,Falcão,18,<26,5.0,Maturidade,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+70,Bravo,24,<26,5.1,Embaixadores,Tecnologia,Analista de Sistemas,5,Muito satisfeito,5,Recomendaria fortemente
+432,Bravo,21,<26,5.5,Embaixadores,Comercial,Executivo Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+475,Delta,18,<26,5.5,Embaixadores,Comercial,Executivo Comercial,4,Satisfeito,3,Neutro
+444,Trovão,23,<26,5.7,Embaixadores,Experiência do Cliente,Analista CX,4,Satisfeito,4,Recomendaria
+84,Sol,25,<26,5.9,Embaixadores,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+124,Aurora,21,<26,6.0,Embaixadores,Jurídico,Assistente Jurídico,5,Muito satisfeito,5,Recomendaria fortemente
+297,Orion,24,<26,6.1,Embaixadores,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+313,Panda,18,<26,6.1,Embaixadores,Planejamento,Analista Planejamento,3,Neutro,3,Neutro
+82,Bravo,24,<26,6.3,Embaixadores,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+86,Vento,20,<26,6.4,Embaixadores,Tecnologia,Analista de Dados,4,Satisfeito,3,Neutro
+175,Águia,18,<26,6.4,Embaixadores,Tecnologia,Analista de Dados,5,Muito satisfeito,5,Recomendaria fortemente
+363,Vento,25,<26,6.7,Embaixadores,Operação,Motorista,3,Neutro,2,Pouco provável recomendar
+112,Nuvem,18,<26,6.9,Embaixadores,Administrativo,Coordenador Administrativo,3,Neutro,4,Recomendaria
+443,Vento,19,<26,6.9,Embaixadores,Experiência do Cliente,Analista CX,4,Satisfeito,5,Recomendaria fortemente
+465,Águia,25,<26,7.4,Embaixadores,Manutenção,Eletricista,2,Insatisfeito,1,Não recomendaria
+273,Águia,21,<26,8.0,Embaixadores,Planejamento,Analista Planejamento,4,Satisfeito,3,Neutro
+468,Lobo,24,<26,8.3,Embaixadores,Comercial,Executivo Comercial,4,Satisfeito,4,Recomendaria
+413,Pixel,18,<26,9.4,Embaixadores,Atendimento,Atendente,2,Insatisfeito,2,Pouco provável recomendar
+392,Cometa,23,<26,9.7,Embaixadores,Operação,Supervisor Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+80,Aurora,25,<26,9.9,Embaixadores,Jurídico,Assistente Jurídico,3,Neutro,3,Neutro
+8,Eco,23,<26,10.4,Veteranos,Financeiro,Analista Financeiro,5,Muito satisfeito,5,Recomendaria fortemente
+476,Nuvem,19,<26,10.8,Veteranos,Tecnologia,Desenvolvedor,4,Satisfeito,5,Recomendaria fortemente
+165,Panda,20,<26,10.9,Veteranos,Operação,Supervisor Operacional,4,Satisfeito,5,Recomendaria fortemente
+95,Sirius,25,<26,11.1,Veteranos,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+473,Atlas,18,<26,11.5,Veteranos,Financeiro,Analista Financeiro,5,Muito satisfeito,5,Recomendaria fortemente
+489,Nuvem,18,<26,11.6,Veteranos,Operação,Fiscal Operacional,5,Muito satisfeito,4,Recomendaria
+186,Sol,18,<26,11.7,Veteranos,Comercial,Executivo Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+442,Pixel,20,<26,12.0,Veteranos,Operação,Motorista,4,Satisfeito,5,Recomendaria fortemente
+292,Atlas,24,<26,12.2,Veteranos,Operação,Despachante,5,Muito satisfeito,5,Recomendaria fortemente
+342,Atlas,24,<26,12.7,Veteranos,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+406,Orion,20,<26,12.8,Veteranos,Manutenção,Mecânico,4,Satisfeito,4,Recomendaria
+440,Sol,24,<26,13.1,Veteranos,Operação,Motorista,4,Satisfeito,5,Recomendaria fortemente
+351,Vento,20,<26,13.4,Veteranos,Tecnologia,Desenvolvedor,5,Muito satisfeito,5,Recomendaria fortemente
+253,Aurora,19,<26,13.9,Veteranos,Comercial,Analista Comercial,3,Neutro,3,Neutro
+204,Safira,25,<26,14.3,Veteranos,Manutenção,Eletricista,4,Satisfeito,3,Neutro
+219,Cometa,19,<26,14.4,Veteranos,Operação,Fiscal Operacional,5,Muito satisfeito,5,Recomendaria fortemente
+12,Lua,22,<26,14.8,Veteranos,Comercial,Analista Comercial,5,Muito satisfeito,5,Recomendaria fortemente
+285,Jade,24,<26,15.6,Veteranos,Financeiro,Analista Financeiro,5,Muito satisfeito,5,Recomendaria fortemente
+280,Jade,25,<26,20.7,Legado,Planejamento,Analista Planejamento,4,Satisfeito,3,Neutro
+65,Atlas,25,<26,20.9,Legado,Atendimento,Supervisor Atendimento,4,Satisfeito,4,Recomendaria
+195,Orion,25,<26,20.9,Legado,Manutenção,Mecânico,4,Satisfeito,5,Recomendaria fortemente
+229,Sol,19,<26,21.1,Legado,Comercial,Executivo Comercial,4,Satisfeito,4,Recomendaria
+88,Lobo,24,<26,22.0,Legado,Manutenção,Auxiliar de Manutenção,4,Satisfeito,4,Recomendaria
+11,Atlas,23,<26,23.2,Legado,Experiência do Cliente,Analista CX,3,Neutro,3,Neutro
+145,Sirius,22,<26,30.8,Legado,Tecnologia,Analista de Sistemas,5,Muito satisfeito,4,Recomendaria
+318,Safira,24,<26,31.0,Legado,Operação,Supervisor Operacional,5,Muito satisfeito,4,Recomendaria

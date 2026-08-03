@@ -1,0 +1,13 @@
+﻿,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+id_funcionario,500.0,,,,250.5,144.4818327679989,1.0,125.75,250.5,375.25,500.0
+apelido,500,20,Águia,31,,,,,,,
+idade,500.0,,,,34.608,10.526535607872498,18.0,27.0,33.0,42.0,62.0
+faixa_idade,500,6,26-34,175,,,,,,,
+anos_na_empresa,500.0,,,,5.912,6.724621704910121,0.2,1.2,2.9,8.425,31.0
+classificacao_experiencia,500,6,Consolidação,155,,,,,,,
+area,500,12,Operação,177,,,,,,,
+cargo,500,28,Despachante,52,,,,,,,
+nivel_satisfacao,500.0,,,,4.15,0.7242576186664472,2.0,4.0,4.0,5.0,5.0
+descricao_satisfacao,500,4,Satisfeito,248,,,,,,,
+recomendaria,500.0,,,,4.232,0.8291870128049577,1.0,4.0,4.0,5.0,5.0
+descricao_recomendaria,500,5,Recomendaria fortemente,226,,,,,,,
