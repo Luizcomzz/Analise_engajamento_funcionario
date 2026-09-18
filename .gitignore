@@ -1,35 +1,40 @@
-# ==========================
-# Python
-# ==========================
+﻿# ================================================================
+# .gitignore — Analise_Satisfacao_Desempenho
+# ================================================================
+
+# --- Dados brutos e bancos (privacidade) ---
+data/raw/
+*.db
+
+# --- Arquivos gerados pelo pipeline ---
+data/processed/
+
+# --- Jupyter Notebook (cache e checkpoints) ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- Anaconda / ambientes de IDE ---
+anaconda_projects/
+.anaconda/
+.projectrc
+
+# --- Ambientes virtuais Python ---
+venv/
+.env/
+env/
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
 
-# Ambientes virtuais
-venv/
-.venv/
-env/
+# --- Variáveis de ambiente e credenciais ---
+.env
+*.env
 
-# Configurações do VS Code
+# --- VS Code ---
 .vscode/
 
-# Arquivos do sistema
+# --- Sistema operacional ---
 .DS_Store
 Thumbs.db
-
-# Banco de dados SQLite
-*.db
-*.sqlite
-*.sqlite3
-
-# Arquivos temporários
-*.log
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-
-# Arquivos grandes (caso os dados sejam privados)
-data/raw/
-
-# Cache
-.pytest_cache/
