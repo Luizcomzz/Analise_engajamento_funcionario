@@ -201,4 +201,4 @@ Dashboards no Power BI conectados ao banco SQLite, com indicadores de satisfaç�
 
 ## 👤 Autor
 
-Desenvolvido por **Luiz** · [LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/seu-usuario)
+Desenvolvido por **Luiz** · [LinkedIn](https://www.linkedin.com/in/luiz-honorio-silva/) · [GitHub](https://github.com/Luizcomzz/)
