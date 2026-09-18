@@ -1,0 +1,17 @@
+﻿# ================================================================
+# requirements.txt — Analise_Satisfacao_Desempenho
+# ================================================================
+# Como usar:
+#   1. Crie um ambiente virtual:    python -m venv venv
+#   2. Ative o ambiente:            venv\Scripts\activate  (Windows)
+#                                   source venv/bin/activate (Mac/Linux)
+#   3. Instale as dependências:     pip install -r requirements.txt
+#
+# Bibliotecas padrão do Python usadas (não precisam ser instaladas):
+#   - sqlite3  → criação e consulta dos bancos de dados locais
+# ================================================================
+
+pandas==3.0.3
+numpy==2.4.6
+matplotlib==3.10.9
+seaborn==0.13.2
